@@ -21,8 +21,7 @@ let recipes = [
             "Divide la masa en bolas y aplánalas en círculos delgados.",
             "Cocina las tortillas en un comal caliente durante 1-2 minutos por cada lado."
         ],
-        "duracion": "30 minutos",
-        "imagen": "https://example.com/tortillas_de_maiz.jpg"
+        "duracion": "30 minutos"
     },
     {
         "nombre": "Galletas de Avena",
@@ -41,8 +40,7 @@ let recipes = [
             "Forma bolitas y colócalas en una bandeja para hornear.",
             "Hornea durante 10-12 minutos."
         ],
-        "duracion": "25 minutos",
-        "imagen": "https://example.com/galletas_de_avena.jpg"
+        "duracion": "25 minutos"
     },
     {
         "nombre": "Pasta de Arroz",
@@ -60,8 +58,7 @@ let recipes = [
             "Mezcla la pasta cocida con los tomates y el ajo.",
             "Sazona con sal y pimienta al gusto."
         ],
-        "duracion": "20 minutos",
-        "imagen": "https://example.com/pasta_de_arroz.jpg"
+        "duracion": "20 minutos"
     },
     {
         "nombre": "Pan de Plátano",
@@ -81,8 +78,7 @@ let recipes = [
             "Vierte la mezcla en un molde para pan engrasado.",
             "Hornea durante 50-60 minutos."
         ],
-        "duracion": "1 hora y 10 minutos",
-        "imagen": "https://example.com/pan_de_platano.jpg"
+        "duracion": "1 hora y 10 minutos"
     },
     {
         "nombre": "Ensalada de Quinoa",
@@ -101,8 +97,7 @@ let recipes = [
             "En un bol grande, mezcla la quinoa, pepino, pimiento y perejil.",
             "Añade el jugo de limón y el aceite de oliva, y mezcla bien."
         ],
-        "duracion": "30 minutos",
-        "imagen": "https://example.com/ensalada_de_quinoa.jpg"
+        "duracion": "30 minutos"
     },
     {
         "nombre": "Sopa de Calabaza",
@@ -121,8 +116,7 @@ let recipes = [
             "Usa una licuadora para hacer puré la sopa hasta que esté suave.",
             "Sazona con sal y pimienta al gusto."
         ],
-        "duracion": "40 minutos",
-        "imagen": "https://example.com/sopa_de_calabaza.jpg"
+        "duracion": "40 minutos"
     },
     {
         "nombre": "Brownies de Chocolate",
@@ -140,8 +134,7 @@ let recipes = [
             "Vierte la mezcla en un molde engrasado.",
             "Hornea durante 25-30 minutos."
         ],
-        "duracion": "35 minutos",
-        "imagen": "https://example.com/brownies_de_chocolate.jpg"
+        "duracion": "35 minutos"
     },
     {
         "nombre": "Pudín de Chía",
@@ -157,7 +150,6 @@ let recipes = [
             "Sirve con frutas frescas por encima."
         ],
         "duracion": "10 minutos (más tiempo de refrigeración)",
-        "imagen": "https://example.com/pudin_de_chia.jpg"
     },
     {
         "nombre": "Tarta de Frutas",
@@ -175,8 +167,7 @@ let recipes = [
             "Deja enfriar y coloca las frutas frescas encima.",
             "Rocía con jugo de limón antes de servir."
         ],
-        "duracion": "30 minutos",
-        "imagen": "https://example.com/tarta_de_frutas.jpg"
+        "duracion": "30 minutos"
     },
     {
         "nombre": "Smoothie Verde",
@@ -192,7 +183,6 @@ let recipes = [
             "Sirve inmediatamente."
         ],
         "duracion": "5 minutos",
-        "imagen": "https://example.com/smoothie_verde.jpg"
     }
 ];
 

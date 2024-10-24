@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
@@ -197,6 +196,4 @@ app.get('/api/recetas', (req, res) => {
     res.json(recipes);
 });
 
-app.listen(PORT, () => {
-    console.log(`The server is running in: http://localhost:${PORT}`);
-});
+module.exports = app;
